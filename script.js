@@ -212,8 +212,8 @@ function initMusicPlayer() {
                 src: "resources/i feel so empty.mp3"
             },
             {
-                title: "If you Care",
-                src: "resources/If you Care (Slowed).mp3"
+                title: "If You Care",
+                src: "resources/If You Care (Slowed).mp3"
             },
             {
                 title: "Solitude",
