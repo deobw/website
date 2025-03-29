@@ -209,19 +209,19 @@ function initMusicPlayer() {
         tracks = [
             {
                 title: "I Feel So Empty",
-                src: "resources/i feel so empty.mp3"
+                src: "resources/i-feel-so-empty.mp3"
             },
             {
                 title: "If You Care",
-                src: "resources/If You Care (Slowed).mp3"
+                src: "resources/if-you-care-slowed.mp3"
             },
             {
                 title: "Solitude",
-                src: "resources/juno, blindheart - Solitude.mp3"
+                src: "resources/solitude.mp3"
             },
             {
                 title: "Missing Textures",
-                src: "resources/Missing Textures (Slowed Down).mp3"
+                src: "resources/missing-textures-slowed-down.mp3"
             }
         ];
         
